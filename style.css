@@ -1,0 +1,17 @@
+body{
+margin: 0;
+padding: 0;
+/* background: url(bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat; */
+}
+.txt{
+display: flex; 
+justify-content: center; 
+width: 40%;
+background: url(bg.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
